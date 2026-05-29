@@ -6,7 +6,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3-F7931E?logo=scikit-learn)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-An end-to-end retail analytics project that combines **RFM analysis**, **K-Means customer clustering**, and **marketing channel ROI evaluation** to derive actionable growth strategies for a retail business.
+An end-to-end retail analytics project that combines **RFM analysis**, **K-Means customer clustering**, and **marketing channel ROI evaluation** to derive actionable growth strategies for a retail business
 
 ---
 
